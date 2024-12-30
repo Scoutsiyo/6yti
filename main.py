@@ -6,9 +6,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-AUTHORIZATION = os.getenv('AUTHORIZATION')
-COOKIE = os.getenv('COOKIE')
-URL = os.getenv('URL')
+AUTHORIZATION = os.getenv('AUTHORIZATION') #CHANGE THE AUTHORIZATION OF YOUR DISCORD ACCOUN. CHANGE ALL OS.WHATEVER
+COOKIE = os.getenv('COOKIE') # YOUR COOKIES FROM YOUR DISCORD ACCOUNT
+URL = os.getenv('URL') # THE URL OF THE CHANNEL. MAKE SURE THAT IT INCLUDES THE CHANNEL ID
 
 # URL to make the request to
 url = URL
