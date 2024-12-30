@@ -1,2 +1,2 @@
-this code send messages to a discord channel.
-Try not to be banned
+Using this code will make you able to send messages from python to discord.
+Follow the instrucctions carefully
