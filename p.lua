@@ -1,3 +1,6 @@
+
+print("BUSQUEDA BINARIA DE NUMEROS EN LUA?")
+
 function suma(a, b)
     sumar = (a + b)
     print(sumar)
