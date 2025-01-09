@@ -14,3 +14,4 @@ function mult(a, b)
 
 mult(5,5)
 
+function binary_search()
