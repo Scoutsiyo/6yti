@@ -14,4 +14,13 @@ function mult(a, b)
 
 mult(5,5)
 
-function binary_search()
+print(longitud)  -- 11
+
+function binary_search(lista, x)
+    izq = 0
+    der = #lista
+    der = der - 1
+    while izq <= der do
+        medio = (izq+der)/2
+        
+    
