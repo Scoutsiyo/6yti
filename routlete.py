@@ -1,5 +1,7 @@
 import random
 
+bullets = int(input("How many charged bullets"))
+
 carga = ["saved","saved","saved","cooked","saved","saved"]
 random.shuffle(carga)
 sufle = input("Do you want to shuffle? ").lower()
