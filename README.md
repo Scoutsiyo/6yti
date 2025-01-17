@@ -26,10 +26,10 @@ routlete.py
 
 The routlete.py script simulates a game of Russian Roulette. Here's a breakdown of its functionality:
 
-Imports the random library.
-Prompts the user to input the number of charged bullets.
-Initializes a list carga representing the chambers of the revolver, with one "cooked" (bullet) and the rest "saved" (empty).
-Shuffles the list carga.
-Prompts the user to shuffle the chambers multiple times based on user input.
-Defines a shoot function that prompts the user to "Shoot".
-Iterates through the carga list, calling the shoot function and printing whether the user is "alive" or "YOU LOST" based on the chamber status.
+1. Imports the random library.
+2. Prompts the user to input the number of charged bullets.
+3. Initializes a list carga representing the chambers of the revolver, with one "cooked" (bullet) and the rest "saved" (empty).
+4. Shuffles the list carga.
+5. Prompts the user to shuffle the chambers multiple times based on user input.
+6. Defines a shoot function that prompts the user to "Shoot".
+7. Iterates through the carga list, calling the shoot function and printing whether the user is "alive" or "YOU LOST" based on the chamber status.
