@@ -1,4 +1,5 @@
 import random
+from playsound import playsound
 
 bullets = int(input("How many charged bullets"))
 
